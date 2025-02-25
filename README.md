@@ -9,7 +9,10 @@ Explain what software engineering is and discuss its importance in the technolog
   Software engineering enables the creation of software applications and systems that power aspects of modern life, including: communication, commerce, entertainment and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+  Key milestones in the evolution of software engineering include:
+  The development of programming languages. The first high-level programming language, FORTRAN, was  released in 1957.
+  The establishment of software engineering as a discipline in the 1960s. The term "software engineering" was coined during this period.
+  The advent of structured programming programming. A new number of methodologies, including structured programming and object-oriented programming, were developed in the 1970s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
